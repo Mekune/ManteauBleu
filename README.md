@@ -1,8 +1,17 @@
 # ManteauBleu
 ## Projet
-projet de 7 semaines a destination d'un restaurant hotel "Le Manteau Bleu" a Béziers éffectué a 4
+projet de 7 semaines a destination d'un restaurant hotel "Le Manteau Bleu" a Béziers éffectué avec une équipe de 4 développeurs.
+### Contenu
+- Site vitrine
+- Parti Administrateur
+- Base de données
+- Hebergement OVH
+- SEO (google search console)
+### technologie utilisé :
+- Php
+- Javascript
 ### lien du site :
-- git@github.com:Mekune/ManteauBleu.git
+- https://manteaubleu.fr
 ### collaborateur :
 - Simon Cintrat : https://github.com/Strytfire
 - Dorian Contal : https://github.com/Doddox20
