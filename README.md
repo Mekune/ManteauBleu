@@ -3,7 +3,7 @@
 projet de 7 semaines a destination d'un restaurant hotel "Le Manteau Bleu" a Béziers éffectué avec une équipe de 4 développeurs.
 ### Contenu
 - Site vitrine
-- Parti Administrateur
+- Partie Administrateur
 - Base de données
 - Hebergement OVH
 - SEO (google search console)
