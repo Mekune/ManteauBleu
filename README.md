@@ -1,18 +1,17 @@
 # ManteauBleu
 ## Projet
-projet de 7 semaines a destination d'un restaurant hotel "Le Manteau Bleu" a Béziers éffectué avec une équipe de 4 développeurs.
-### Contenu
-- Site vitrine
-- Partie Administrateur
-- Base de données
-- Hebergement OVH
+7-week project for a restaurant-hotel "Le Manteau Bleu" in Béziers carried out with a team of 4 developers.### Contenu
+- Showcase site
+- Administrator part
+- Database
+- OVH hosting
 - SEO (google search console)
-### technologie utilisé :
+### technology used  :
 - Php
 - Javascript
-### lien du site :
+### Website link :
 - https://manteaubleu.fr
-### collaborateur :
+### contributor :
 - Simon Cintrat : https://github.com/Strytfire
 - Dorian Contal : https://github.com/Doddox20
 - Lény Sauzet : https://github.com/Drackass
