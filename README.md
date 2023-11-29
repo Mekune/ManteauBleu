@@ -1,6 +1,7 @@
 # ManteauBleu
 ## Projet
-7-week project for a restaurant-hotel "Le Manteau Bleu" in Béziers carried out with a team of 4 developers.### Contenu
+7-week project for a restaurant-hotel "Le Manteau Bleu" in Béziers carried out with a team of 4 developers.
+### Contenu
 - Showcase site
 - Administrator part
 - Database
