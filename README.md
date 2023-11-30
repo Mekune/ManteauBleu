@@ -15,7 +15,7 @@
 ## Technologie utilisé 
 ### langage
   - HTML/CSS
-  - JavaScript
+  - Javascript
   - Php
-### librairie
-  - Jquery
+### librairie
+  - jQuery
