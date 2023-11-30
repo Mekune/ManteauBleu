@@ -1,5 +1,5 @@
 ## Description
-  - objectif : faire un site vitrine avec parti administrateur pour un hotel retaurant
+  - objectif : faire un site vitrine avec partie administrateur pour un hotel retaurant
   - ### Contenu
     - Site vitirne
     - Page administration
