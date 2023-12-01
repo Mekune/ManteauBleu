@@ -19,3 +19,7 @@
   - Php
 ### librairie
   - jQuery
+### hebergeur
+  - OVH
+### Outils 
+  - Google search console
